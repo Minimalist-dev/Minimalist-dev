@@ -5,4 +5,5 @@
 - 📫 How to reach me neury.developer@gmail.com
 
 Websites:
+  - https://minimalist-dev.github.io/
   - https://minimalist-dev.github.io/pokemons/
