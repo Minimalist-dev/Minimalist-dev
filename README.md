@@ -3,3 +3,6 @@
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me neury.developer@gmail.com
+
+Websites:
+  - https://minimalist-dev.github.io/pokemons/
